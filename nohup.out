@@ -1,0 +1,155 @@
+Current restart count for swype-app: 1
+Current restart count for swype-app: 1
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 3
+Current restart count for swype-app: 3
+Current restart count for swype-app: 3
+Current restart count for swype-app: 3
+Current restart count for swype-app: 3
+Current restart count for swype-app: 3
+Current restart count for swype-app: 3
+Current restart count for swype-app: 3
+Current restart count for swype-app: 3
+Current restart count for swype-app: 3
+Current restart count for swype-app: 3
+Current restart count for swype-app: 3
+Current restart count for swype-app: 3
+Current restart count for swype-app: 4
+Deployment swype-app exceeded restart limit (3). Scaling down...
+deployment.apps/swype-app scaled
+Monitoring stopped.
+Current restart count for swype-app: 4
+Deployment swype-app exceeded restart limit (3). Scaling down...
+deployment.apps/swype-app scaled
+Monitoring stopped.
+Current restart count for swype-app: 4
+Deployment swype-app exceeded restart limit (3). Scaling down...
+deployment.apps/swype-app scaled
+Monitoring stopped.
+Current restart count for swype-app: 4
+Deployment swype-app exceeded restart limit (3). Scaling down...
+deployment.apps/swype-app scaled
+Monitoring stopped.
+Current restart count for swype-app: 4
+Deployment swype-app exceeded restart limit (3). Scaling down...
+deployment.apps/swype-app scaled
+Monitoring stopped.
+Current restart count for swype-app: 4
+Deployment swype-app exceeded restart limit (3). Scaling down...
+deployment.apps/swype-app scaled
+Monitoring stopped.
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restart count for swype-app: 
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restart count for swype-app: 
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restart count for swype-app: 
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restart count for swype-app: 
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restart count for swype-app: 
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restart count for swype-app: 
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restart count for swype-app: 
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restart count for swype-app: 
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restart count for swype-app: 
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restart count for swype-app: 
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restart count for swype-app: 
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restart count for swype-app: 
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restart count for swype-app: 
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restart count for swype-app: 
