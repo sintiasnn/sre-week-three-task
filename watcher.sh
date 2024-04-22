@@ -11,8 +11,7 @@ MAX_RESTARTS=3
 while true; do
 
   # Get pod restarts
-  POD_RESTARTS=$(kubectl get pods -n "$NAMESPACE" -l app="$DEPLOYMENT_NAME" -o jsonpath='{.items[0].status.containerStatuses[0].restartCount}')
-
+  POD_RESTARTS=$(kubectl get pods -n $NAMESPACE -l app=$DEPLOYMENT_NAME --no-headers -o wide | awk '{print $4}')
   # Display current restart count
   echo "Current restart count for $DEPLOYMENT_NAME: $POD_RESTARTS"
 
